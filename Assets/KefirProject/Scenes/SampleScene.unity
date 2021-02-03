@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_IndirectSpecularColor: {r: 66.57025, g: 57.162586, b: 47.105206, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 88956326}
   - component: {fileID: 88956327}
   m_Layer: 0
-  m_Name: Asphalt Crack_001
+  m_Name: Asphalt CrackFloor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -455,7 +455,7 @@ GameObject:
   - component: {fileID: 228089951}
   - component: {fileID: 228089952}
   m_Layer: 0
-  m_Name: Asphalt Crack_002
+  m_Name: Asphalt CrackFloor(1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -605,7 +605,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 282868110}
   m_LocalRotation: {x: -0, y: 0.0096184015, z: -0, w: 0.9999538}
-  m_LocalPosition: {x: 45.826363, y: 0, z: -24.118217}
+  m_LocalPosition: {x: 40.1, y: 0, z: -16}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1560060961}
@@ -878,7 +878,7 @@ GameObject:
   - component: {fileID: 317573306}
   - component: {fileID: 317573307}
   m_Layer: 0
-  m_Name: Concrete Damage_02
+  m_Name: Concrete Damage(2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -931,7 +931,7 @@ GameObject:
   - component: {fileID: 360268994}
   - component: {fileID: 360268995}
   m_Layer: 0
-  m_Name: Blood (2)
+  m_Name: BloodFloor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1250,7 +1250,7 @@ GameObject:
   - component: {fileID: 479345948}
   - component: {fileID: 479345949}
   m_Layer: 0
-  m_Name: Asphalt Crack_002
+  m_Name: Asphalt CrackWall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1494,7 +1494,7 @@ GameObject:
   - component: {fileID: 612252528}
   - component: {fileID: 612252529}
   m_Layer: 0
-  m_Name: Blood (1)
+  m_Name: BloodWall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1706,7 +1706,7 @@ GameObject:
   - component: {fileID: 725101303}
   - component: {fileID: 725101304}
   m_Layer: 0
-  m_Name: Damage (4)
+  m_Name: Asphalt CrackFloor(2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1759,7 +1759,7 @@ GameObject:
   - component: {fileID: 768551938}
   - component: {fileID: 768551939}
   m_Layer: 0
-  m_Name: Asphalt Crack_01
+  m_Name: Asphalt CrackWall(1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1895,7 +1895,7 @@ GameObject:
   - component: {fileID: 844927113}
   - component: {fileID: 844927114}
   m_Layer: 0
-  m_Name: Asphalt Crack_03
+  m_Name: Asphalt CrackFloor(3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2160,7 +2160,7 @@ GameObject:
   - component: {fileID: 956139532}
   - component: {fileID: 956139533}
   m_Layer: 0
-  m_Name: Asphalt Crack
+  m_Name: Asphalt CrackFloor(6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2213,7 +2213,7 @@ GameObject:
   - component: {fileID: 1056864835}
   - component: {fileID: 1056864836}
   m_Layer: 0
-  m_Name: Blood (5)
+  m_Name: BloodFloor(2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3118,7 +3118,7 @@ GameObject:
   - component: {fileID: 1429594635}
   - component: {fileID: 1429594636}
   m_Layer: 0
-  m_Name: Concrete Damage_01
+  m_Name: Concrete Damage(1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3304,7 +3304,7 @@ GameObject:
   - component: {fileID: 1496184690}
   - component: {fileID: 1496184691}
   m_Layer: 0
-  m_Name: Asphalt Crack_004
+  m_Name: Asphalt CrackFloor(5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3659,7 +3659,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1560060957}
   m_LocalRotation: {x: 0, y: 0.00008726013, z: 0, w: 1}
-  m_LocalPosition: {x: -6.2372274, y: -3.183, z: 3.4227428}
+  m_LocalPosition: {x: -5.466, y: -3.183, z: 3.027}
   m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
   m_Children:
   - {fileID: 2019175313}
@@ -3767,7 +3767,7 @@ GameObject:
   - component: {fileID: 1600425668}
   - component: {fileID: 1600425669}
   m_Layer: 0
-  m_Name: Asphalt Crack_02
+  m_Name: Asphalt CrackFloor(4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3820,7 +3820,7 @@ GameObject:
   - component: {fileID: 1609417462}
   - component: {fileID: 1609417463}
   m_Layer: 0
-  m_Name: Blood (4)
+  m_Name: BloodFloor(1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

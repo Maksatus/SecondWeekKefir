@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: AgineChair Shader Graphs
+  m_Name: agingChair
   m_Shader: {fileID: -6465566751694194690, guid: d70ce44f9499a214eb838155c3899bcc, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -98,7 +98,7 @@ Material:
     - _ZTestGBuffer: 4
     - _ZTestTransparent: 4
     - _ZWrite: 1
-    - _age: 1
+    - _age: -0.3
     m_Colors:
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
